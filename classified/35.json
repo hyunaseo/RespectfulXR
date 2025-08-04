@@ -35,7 +35,7 @@
     "avg_logprob": -0.20865159393638694,
     "compression_ratio": 1.5502183406113537,
     "no_speech_prob": 0.04403463006019592,
-    "type": "Supplementary"
+    "type": "Method"
   },
   {
     "id": 1,
@@ -97,7 +97,7 @@
     "avg_logprob": -0.20865159393638694,
     "compression_ratio": 1.5502183406113537,
     "no_speech_prob": 0.04403463006019592,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 3,
@@ -148,7 +148,7 @@
     "avg_logprob": -0.20865159393638694,
     "compression_ratio": 1.5502183406113537,
     "no_speech_prob": 0.04403463006019592,
-    "type": "Explanation"
+    "type": "Description"
   },
   {
     "id": 5,
@@ -207,7 +207,7 @@
     "avg_logprob": -0.16760170459747314,
     "compression_ratio": 1.54337899543379,
     "no_speech_prob": 0.004242305178195238,
-    "type": "Explanation"
+    "type": "Overview"
   },
   {
     "id": 7,
@@ -382,7 +382,7 @@
     "avg_logprob": -0.21408809315074573,
     "compression_ratio": 1.658008658008658,
     "no_speech_prob": 0.00773280393332243,
-    "type": "Method"
+    "type": "Description"
   },
   {
     "id": 13,
@@ -482,7 +482,7 @@
     "avg_logprob": -0.21408809315074573,
     "compression_ratio": 1.658008658008658,
     "no_speech_prob": 0.00773280393332243,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 17,
@@ -539,7 +539,7 @@
     "avg_logprob": -0.21408809315074573,
     "compression_ratio": 1.658008658008658,
     "no_speech_prob": 0.00773280393332243,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 19,
@@ -679,7 +679,7 @@
     "avg_logprob": -0.1688662086214338,
     "compression_ratio": 1.6586345381526104,
     "no_speech_prob": 0.005275229923427105,
-    "type": "Explanation"
+    "type": "Description"
   },
   {
     "id": 24,
@@ -709,7 +709,7 @@
     "avg_logprob": -0.1688662086214338,
     "compression_ratio": 1.6586345381526104,
     "no_speech_prob": 0.005275229923427105,
-    "type": "Supplementary"
+    "type": "Overview"
   },
   {
     "id": 25,
@@ -731,7 +731,7 @@
     "avg_logprob": -0.1688662086214338,
     "compression_ratio": 1.6586345381526104,
     "no_speech_prob": 0.005275229923427105,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 26,
@@ -760,7 +760,7 @@
     "avg_logprob": -0.1688662086214338,
     "compression_ratio": 1.6586345381526104,
     "no_speech_prob": 0.005275229923427105,
-    "type": "Explanation"
+    "type": "Description"
   },
   {
     "id": 27,
@@ -784,7 +784,7 @@
     "avg_logprob": -0.1688662086214338,
     "compression_ratio": 1.6586345381526104,
     "no_speech_prob": 0.005275229923427105,
-    "type": "Explanation"
+    "type": "Method"
   },
   {
     "id": 28,
@@ -811,7 +811,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Explanation"
+    "type": "Overview"
   },
   {
     "id": 29,
@@ -835,7 +835,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Explanation"
+    "type": "Description"
   },
   {
     "id": 30,
@@ -856,7 +856,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 31,
@@ -881,7 +881,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 32,
@@ -921,7 +921,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Description"
   },
   {
     "id": 33,
@@ -950,7 +950,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 34,
@@ -1020,7 +1020,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 37,
@@ -1046,7 +1046,7 @@
     "avg_logprob": -0.15717100328014744,
     "compression_ratio": 1.6167883211678833,
     "no_speech_prob": 0.007670529652386904,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 38,
@@ -1066,7 +1066,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Conclusion"
+    "type": "Description"
   },
   {
     "id": 39,
@@ -1107,7 +1107,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Miscellaneous"
+    "type": "Overview"
   },
   {
     "id": 41,
@@ -1151,7 +1151,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 43,
@@ -1205,7 +1205,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 45,
@@ -1228,7 +1228,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Method"
+    "type": "Description"
   },
   {
     "id": 46,
@@ -1285,7 +1285,7 @@
     "avg_logprob": -0.20486301006657062,
     "compression_ratio": 1.613953488372093,
     "no_speech_prob": 0.009289216250181198,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 48,
@@ -1320,7 +1320,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 49,
@@ -1346,7 +1346,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 50,
@@ -1368,7 +1368,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Tool"
+    "type": "Description"
   },
   {
     "id": 51,
@@ -1389,7 +1389,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Method"
+    "type": "Description"
   },
   {
     "id": 52,
@@ -1410,7 +1410,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Miscellaneous"
+    "type": "Description"
   },
   {
     "id": 53,
@@ -1435,7 +1435,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Explanation"
+    "type": "Description"
   },
   {
     "id": 54,
@@ -1458,7 +1458,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 55,
@@ -1481,7 +1481,7 @@
     "avg_logprob": -0.17502090611408666,
     "compression_ratio": 1.586734693877551,
     "no_speech_prob": 0.025404566898941994,
-    "type": "Tool"
+    "type": "Description"
   },
   {
     "id": 56,
@@ -1584,7 +1584,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 60,
@@ -1616,7 +1616,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 61,
@@ -1640,7 +1640,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Explanation"
+    "type": "Overview"
   },
   {
     "id": 62,
@@ -1659,7 +1659,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Miscellaneous"
+    "type": "Overview"
   },
   {
     "id": 63,
@@ -1685,7 +1685,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Explanation"
+    "type": "Overview"
   },
   {
     "id": 64,
@@ -1711,7 +1711,7 @@
     "avg_logprob": -0.14697253578587582,
     "compression_ratio": 1.4823008849557522,
     "no_speech_prob": 0.004815355408936739,
-    "type": "Conclusion"
+    "type": "Overview"
   },
   {
     "id": 65,
@@ -1767,7 +1767,7 @@
     "avg_logprob": -0.14709463986483487,
     "compression_ratio": 1.5638766519823788,
     "no_speech_prob": 0.05225721001625061,
-    "type": "Miscellaneous"
+    "type": "Overview"
   },
   {
     "id": 67,
@@ -1798,7 +1798,7 @@
     "avg_logprob": -0.14709463986483487,
     "compression_ratio": 1.5638766519823788,
     "no_speech_prob": 0.05225721001625061,
-    "type": "Miscellaneous"
+    "type": "Overview"
   },
   {
     "id": 68,
@@ -1848,7 +1848,7 @@
     "avg_logprob": -0.14709463986483487,
     "compression_ratio": 1.5638766519823788,
     "no_speech_prob": 0.05225721001625061,
-    "type": "Method"
+    "type": "Description"
   },
   {
     "id": 70,
@@ -1871,7 +1871,7 @@
     "avg_logprob": -0.14709463986483487,
     "compression_ratio": 1.5638766519823788,
     "no_speech_prob": 0.05225721001625061,
-    "type": "Method"
+    "type": "Overview"
   },
   {
     "id": 71,
@@ -1921,6 +1921,6 @@
     "avg_logprob": -0.14709463986483487,
     "compression_ratio": 1.5638766519823788,
     "no_speech_prob": 0.05225721001625061,
-    "type": "Explanation"
+    "type": "Overview"
   }
 ]

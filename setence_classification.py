@@ -29,7 +29,7 @@ for i, seg in enumerate(segments):
     full_prompt = f"{base_prompt.strip()}\n\nSentence: {sentence}\nCategory:"
     
     response = client.chat.completions.create(
-        # model = gpt-4o,  
+        # model = "gpt-4o",  # or "gpt-3.5-turbo"
         # model="gpt-3.5-turbo",
         model = "gpt-4-turbo",
         messages=[
